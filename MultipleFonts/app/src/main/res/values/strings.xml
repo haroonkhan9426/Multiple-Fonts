@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MultipleFonts</string>
+    <string name="testString">This text is just for checking different fonts</string>
+</resources>
